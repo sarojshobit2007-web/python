@@ -1,7 +1,7 @@
-# Simple Python Program
+# Simple Python programmmmm
 
 # 1. Print a message
-print("Hello, World!")
+print("Hello, Worldddd!")
 
 # 2. Variables and basic operations
 name = "Python"
