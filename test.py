@@ -4,7 +4,7 @@
 print("Hello, World!")
 
 # 2. Variables and basic operations
-name = "Python"
+name = "Pythhooon"
 age = 30
 print(f"I'm learning {name} and it's awesome!")
 
