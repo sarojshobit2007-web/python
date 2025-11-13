@@ -6,7 +6,7 @@ print("Hello, World!")
 # 2. Variables and basic operations
 name = "Pythhooon"
 age = 30
-print(f"I'm learning {name} and it's awesome!")
+print(f"I'm learnnnning {name} and it's awesome!")
 
 # 3. Simple list
 numbers = [1, 2, 3, 4, 5]
